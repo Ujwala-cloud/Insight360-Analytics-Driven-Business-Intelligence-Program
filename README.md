@@ -119,6 +119,9 @@ Six Sigma (DMAIC) methodology
 Jira-based project management (Kanban)
 End-to-end project ownership
 
+👉 Project Management
+Project execution was tracked using Jira (Kanban), with epics and tasks aligned to the BI and analytics delivery lifecycle.
+
 🚀 Project Status
 Ongoing – enhancements and additional analytics planned.
 
