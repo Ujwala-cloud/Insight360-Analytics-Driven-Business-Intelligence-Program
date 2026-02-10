@@ -1,25 +1,25 @@
 📊 Insight360 – End-to-End Business Intelligence & Analytics Project
 
-📌 Project Overview
+👉  Project Overview
 Insight360 is an end-to-end Business Intelligence and Analytics project that simulates a real-world analytics workflow.
 The project covers the complete lifecycle — from data validation and SQL modeling to Power BI dashboards, Python analytics, and Jira-based project tracking.
 This project demonstrates how raw transactional data can be transformed into reliable, decision-ready insights.
 
-🎯 Business Objectives
+👉 Business Objectives
 Analyze retail sales performance across time, region, and customers
 Build BI-ready data models for executive reporting
 Measure revenue, profit, and customer contribution
 Apply Six Sigma (DMAIC) principles to assess data quality
 Deliver insights using industry-standard BI and analytics tools
 
-🧰 Tool Stack
+👉  Tool Stack
 Excel / Advanced Excel – Data validation & quality checks
 PostgreSQL – Data storage, modeling, analytics views
 Power BI – Dashboards & DAX measures
 Python (Pandas, NumPy, Matplotlib) – EDA & advanced analysis
 Jira (Kanban) – Project tracking & delivery management
 
-🏗️ Project Architecture
+👉  Project Architecture
 Excel (Validation)
       ↓
 PostgreSQL (Fact Table + Views)
@@ -28,7 +28,7 @@ Power BI (Dashboards & KPIs)
       ↓
 Python (EDA + Six Sigma Analysis)
 
-🗄️ Data Description
+👉 Data Description
 Domain: Retail / Sales Analytics
 Granularity: Transaction-level data
 Time Period: Dec 2010 – Nov 2011
@@ -40,7 +40,7 @@ Quantity & Unit Price
 Revenue, Cost, Profit
 Region
 
-🧱 SQL Layer (PostgreSQL)
+👉  SQL Layer (PostgreSQL)
 Designed a fact_sales table for transactional data
 Created an analytics schema for BI consumption
 Built BI-ready SQL views for:
@@ -78,7 +78,7 @@ YoY Growth
 
 📁 powerbi/insight360_bi.sql_powerbi
 
-🐍 Python Analytics & Six Sigma (DMAIC)
+👉  Python Analytics & Six Sigma (DMAIC)
 
 🔹 Exploratory Data Analysis
 Revenue distribution analysis
@@ -103,14 +103,14 @@ Quality checks before BI consumption
 python/insight360_bi-checkpoint.ipynb
 python/clean_sales_data_export.csv
 
-📊 Key Insights
+👉  Key Insights
 
 A small percentage of customers contribute a large share of total revenue
 Profit growth does not always scale proportionally with revenue
 Seasonal trends significantly affect sales performance
 Data quality issues, even at low volumes, can impact reporting accuracy
 
-🧠 Skills Demonstrated
+👉  Skills Demonstrated
 Business Intelligence & analytics modeling
 SQL querying and data transformation
 Power BI dashboarding & DAX
