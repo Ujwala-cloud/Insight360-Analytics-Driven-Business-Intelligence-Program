@@ -103,7 +103,7 @@ Quality checks before BI consumption
 python/insight360_bi-checkpoint.ipynb
 python/clean_sales_data_export.csv
 
-👉  Key Insights
+👉  Key Insights  
 
 A small percentage of customers contribute a large share of total revenue
 Profit growth does not always scale proportionally with revenue
@@ -111,6 +111,7 @@ Seasonal trends significantly affect sales performance
 Data quality issues, even at low volumes, can impact reporting accuracy
 
 👉  Skills Demonstrated
+
 Business Intelligence & analytics modeling
 SQL querying and data transformation
 Power BI dashboarding & DAX
@@ -126,5 +127,6 @@ Project execution was tracked using Jira (Kanban), with epics and tasks aligned 
 Ongoing – enhancements and additional analytics planned.
 
 👤 Author
-Ujwala
+Ujwala Pendharkar
+
 Independent Business Intelligence Project Manager
